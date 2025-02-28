@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+}
+
+#results img {
+    width: 100px;
+    cursor: pointer;
+}
+
+.book {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
